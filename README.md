@@ -6,7 +6,7 @@ ctrl+shift+C - Копировать
 ```
 ```
 cd web/welcome/
-CURRENT_UID=$(id -u):$(id -g) docker-compose up -d
+docker-compose up -d
 ```
 
 2. Браузер
